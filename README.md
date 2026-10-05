@@ -1,13 +1,13 @@
 <!-- 헤더 배너 (kikobeats/capsule-render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Gyeonggu%20Mun&fontSize=60&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descFontSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Gyeonggu%20Mun&fontSize=60&fontAlignY=38&desc=Full-Stack%20%7C%20Security%20%7C%20AI&descAlignY=58&descFontSize=22" width="100%" />
 </div>
 
 <div align="center">
-  <h3>✨ "기록과 회고(Plan-Do-See)를 통해 꾸준히 성장하는 개발자, 문경구입니다."</h3>
+  <h3>✨ 기록과 회고를 통해 꾸준히 성장하는 개발자, 문경구입니다.</h3>
   <p>
-    React 19, Next.js, WebAuthn(Passkey) 등 <b>최신 웹 표준 기술과 뛰어난 사용자 경험(UX)</b>을 탐구합니다.<br/>
-    단순한 화면 구현을 넘어 <b>Java & Spring Boot 백엔드와의 유기적인 데이터 흐름과 견고한 아키텍처</b>를 지향합니다.
+    웹 서비스의 사용자 경험과 백엔드 데이터 흐름을 함께 고민합니다.<br/>
+    정보보호·보안 인프라 운영과 RAG 기반 AI 서비스까지 학습하고 프로젝트로 기록하고 있습니다.
   </p>
 
   <!-- GitHub / Contact 뱃지 -->
@@ -20,6 +20,47 @@
 </div>
 
 <br/>
+
+---
+
+### 👋 About Me
+
+- **관심 분야:** 풀스택 웹 개발, 보안 인프라, RAG 기반 AI 서비스
+- **일하는 방식:** 목표를 세우고 구현 과정을 기록하며, 결과를 회고해 다음 개선으로 연결합니다.
+- **프로젝트 기록:** [GrayGuard](https://github.com/gyeonggumun/GrayGuard) · [SafeStay](https://github.com/gyeonggumun/SafeStay) · [CleanTicket](https://github.com/gyeonggumun/CleanTicket)
+
+### 🏆 Awards
+
+**2025 부산디지털혁신아카데미(BDIA) 사이드 프로젝트 아이디어 상** · 2025.12.12<br/>
+팀 *몽향의 숲* 수상 · 부산광역시 주최, 부산정보산업진흥원 주관
+
+<img src="assets/award-bdia-2025.png" width="600" alt="BDIA 사이드 프로젝트 아이디어 상 상장 발췌" />
+
+**두 번째 수상 경력:** 자료 확인 후 추가 예정
+
+<!-- 두 번째 상장: 수상명 / 수상일 / 주최·주관 / 이미지 경로를 확인한 뒤 추가 -->
+
+### 🎓 Education
+
+| 기간 | 교육 과정 | 상태 |
+| --- | --- | --- |
+| 2025.09.18 ~ 2026.02.05 | 검색증강생성(RAG) AI 기반 문화관광 스마트 콘텐츠 플랫폼 개발자 양성 | 수료 |
+| 2026.03.24 ~ 2026.08.07 | [이스트캠프] 가디언즈 정보보호 및 보안 인프라 운영 관리 | 수료 |
+| ~ 2026.11.12 예정 | SKT 알래프 교육 | 진행 중 · 수료증 추가 예정 |
+
+<details>
+<summary>RAG 기반 문화관광 콘텐츠 개발자 과정 수료증 보기</summary>
+<br/>
+<img src="assets/completion-rag-2026.png" width="600" alt="RAG 기반 문화관광 콘텐츠 개발자 과정 수료증 발췌" />
+</details>
+
+<details>
+<summary>가디언즈 정보보호 및 보안 인프라 운영 관리 과정 수료증 보기</summary>
+<br/>
+<img src="assets/completion-guardian-2026.png" width="600" alt="가디언즈 정보보호 및 보안 인프라 운영 관리 과정 수료증 발췌" />
+</details>
+
+<!-- SKT 알래프 교육 종료 후 수료증 이미지와 실제 수료일 추가 -->
 
 ---
 
@@ -64,84 +105,17 @@
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/gyeonggumun/Portfolio-project">Interactive Portfolio Web App</a></h3>
-      <p><b>차세대 웹 기술(WebAuthn Passkey)을 결합한 몰입형 포트폴리오</b></p>
-      <ul>
-        <li><b>Tech</b>: React 19, Vite, WebAuthn (FIDO2), CSS Module</li>
-        <li><b>Key Feature</b>:
-          <ul>
-            <li>단일 화면(100vh) 몰입형 레이아웃 및 대화형 인터랙티브 뷰어 구현</li>
-            <li>하드웨어 기반 패스키(Passkey) 무암호화 보안 인증 프론트엔드 연동</li>
-            <li>웹 접근성(A11y)과 반응형 최적화 인터페이스 설계</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/gyeonggumun/PDS-Planner">PDS Enterprise Secure Planner</a></h3>
-      <p><b>계획(Plan)-실행(Do)-회고(See) 루프 완성을 위한 스마트 플래너</b></p>
-      <ul>
-        <li><b>Tech</b>: JavaScript, React, Component Architecture</li>
-        <li><b>Key Feature</b>:
-          <ul>
-            <li>사용자 세션 라이프사이클 및 안전한 인증 흐름 설계</li>
-            <li>데이터 기반 목표 달성 피드백 루프 및 상태 관리 최적화</li>
-            <li>체계적인 프론트엔드 아키텍처와 재사용 가능한 UI 컴포넌트 모듈화</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/gyeonggumun/balance-dashboard">Financial Balance Dashboard</a></h3>
-      <p><b>개인 맞춤형 자산 및 금융 데이터 시각화 대시보드</b></p>
-      <ul>
-        <li><b>Tech</b>: React, Vite, Data Visualization</li>
-        <li><b>Key Feature</b>:
-          <ul>
-            <li>직관적인 차트 및 실시간 데이터 지표 시각화</li>
-            <li>다양한 화면 해상도를 지원하는 유연한 그리드 레이아웃</li>
-            <li>빠른 반응성과 최적화된 상태 업데이트 파이프라인 구축</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/gyeonggumun/skt-stock-board">SKT Stock Analytics Board</a></h3>
-      <p><b>Next.js & TypeScript 기반 주식 현황 분석 웹 애플리케이션</b></p>
-      <ul>
-        <li><b>Tech</b>: Next.js, TypeScript, SSR / API Routes</li>
-        <li><b>Key Feature</b>:
-          <ul>
-            <li>TypeScript를 활용한 엄격한 타입 안정성 확보</li>
-            <li>Next.js 기반의 빠른 초기 렌더링 및 모던 UI 인터페이스</li>
-            <li>실시간 금융 데이터 파싱 및 반응형 테이블 컴포넌트</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>💻 <a href="https://github.com/gyeonggumun/korit_9_gov_post_main_project_front">Full-Stack Community & Post Management System</a></h3>
-      <p><b>Spring Boot 백엔드와 React 프론트엔드가 결합된 정석적인 풀스택 웹 서비스</b></p>
-      <ul>
-        <li><b>Tech</b>: Java, Spring Boot, React, MySQL, REST API, Servlet</li>
-        <li><b>Key Feature</b>:
-          <ul>
-            <li>JWT/세션 기반 회원 인증, 권한 관리(RBAC) 및 보안 필터 구축</li>
-            <li>RESTful API 규격 설계 및 프론트-백엔드 비동기 통신(Axios/Fetch) 최적화</li>
-            <li>계층형 게시판 CRUD, 댓글, 페이징, 파일 업로드 및 DB 트랜잭션 관리</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 👥 대표 팀 프로젝트
+
+> 선정 후 프로젝트명·담당 역할·핵심 성과·저장소 링크를 추가할 예정입니다.
+
+<!-- 팀 프로젝트: 프로젝트명 / 문제와 목표 / 본인 역할 / 기술 / 결과 / 저장소 링크 / 이미지 -->
+
+#### 👤 대표 개인 프로젝트
+
+> 선정 후 프로젝트명·구현 내용·핵심 성과·저장소 링크를 추가할 예정입니다.
+
+<!-- 개인 프로젝트: 프로젝트명 / 문제와 목표 / 구현 내용 / 기술 / 결과 / 저장소 링크 / 이미지 -->
 
 <br/>
 
