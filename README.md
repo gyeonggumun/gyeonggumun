@@ -34,7 +34,11 @@
 **2025 부산디지털혁신아카데미(BDIA) 사이드 프로젝트 아이디어 상** · 2025.12.12<br/>
 팀 *몽향의 숲* 수상 · 부산광역시 주최, 부산정보산업진흥원 주관
 
-<img src="assets/award-bdia-2025.png" width="600" alt="BDIA 사이드 프로젝트 아이디어 상 상장 발췌" />
+<details>
+<summary>BDIA 사이드 프로젝트 아이디어 상 상장 보기</summary>
+<br/>
+<a href="assets/award-bdia-2025.png"><img src="assets/award-bdia-2025.png" width="360" alt="BDIA 사이드 프로젝트 아이디어 상 상장 전체 페이지" /></a>
+</details>
 
 **두 번째 수상 경력:** 자료 확인 후 추가 예정
 
@@ -51,13 +55,13 @@
 <details>
 <summary>RAG 기반 문화관광 콘텐츠 개발자 과정 수료증 보기</summary>
 <br/>
-<img src="assets/completion-rag-2026.png" width="600" alt="RAG 기반 문화관광 콘텐츠 개발자 과정 수료증 발췌" />
+<a href="assets/completion-rag-2026.png"><img src="assets/completion-rag-2026.png" width="360" alt="RAG 기반 문화관광 콘텐츠 개발자 과정 수료증 전체 페이지" /></a>
 </details>
 
 <details>
 <summary>가디언즈 정보보호 및 보안 인프라 운영 관리 과정 수료증 보기</summary>
 <br/>
-<img src="assets/completion-guardian-2026.png" width="600" alt="가디언즈 정보보호 및 보안 인프라 운영 관리 과정 수료증 발췌" />
+<a href="assets/completion-guardian-2026.png"><img src="assets/completion-guardian-2026.png" width="360" alt="가디언즈 정보보호 및 보안 인프라 운영 관리 과정 수료증 전체 페이지" /></a>
 </details>
 
 <!-- SKT 알래프 교육 종료 후 수료증 이미지와 실제 수료일 추가 -->
