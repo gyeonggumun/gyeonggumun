@@ -40,9 +40,14 @@
 <a href="assets/award-bdia-2025.png"><img src="assets/award-bdia-2025.png" width="360" alt="BDIA 사이드 프로젝트 아이디어 상 상장 전체 페이지" /></a>
 </details>
 
-**두 번째 수상 경력:** 자료 확인 후 추가 예정
+**2025 학생 창업유망팀 300+ 경진대회 성장트랙 최종 선정** · 2025.10.17<br/>
+팀 *몽향의 숲* · 교육부 장관 인증
 
-<!-- 두 번째 상장: 수상명 / 수상일 / 주최·주관 / 이미지 경로를 확인한 뒤 추가 -->
+<details>
+<summary>성장트랙 최종 선정 인증서 보기</summary>
+<br/>
+<a href="assets/recognition-u300-2025.jpg"><img src="assets/recognition-u300-2025.jpg" width="360" alt="학생 창업유망팀 300+ 성장트랙 최종 선정 인증서" /></a>
+</details>
 
 ### 🎓 Education
 
